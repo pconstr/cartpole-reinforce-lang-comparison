@@ -3,7 +3,7 @@ cartpole-reinforce-lang-comparison
 
 A naïve (policy gradient with REINFORCE) RL solution to cart-pole balancing implemented in several languages and frameworks.
 
-My motivaition is to play a little bit with (https://github.com/flashlight/flashlight)[flashlight], see how it compares to (https://pytorch.org/[pytorch].
+My motivaition is to play a little bit with [flashlight](https://github.com/flashlight/flashlight), see how it compares to [pytorch](https://pytorch.org).
 
 This is WIP.
 
