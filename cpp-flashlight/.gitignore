@@ -1,0 +1,7 @@
+build/
+deps/
+docmake
+
+# editor backup files
+*~
+\#*\#
